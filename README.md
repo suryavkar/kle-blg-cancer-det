@@ -6,3 +6,12 @@ Due to confidentiality reasons, raw data cannot be shared. [`model.ipynb`](model
 Final model cannot be made public. [`model.ipynb`](model.ipynb) is one of the models trained during development of the project. The overall training process is outlined in the notebook.
 
 Other files contain some of the pre-processing techniques used to refine the model.
+
+# Some training patches
+<p align="left"> <a> <img src="https://github.com/suryavkar/kle-blg-cancer-det/blob/main/images/training_patches.png" alt="train_patch" width="1200" height="500"/> </a> </p>
+
+# Some validation patches
+<p align="left"> <a> <img src="https://github.com/suryavkar/kle-blg-cancer-det/blob/main/images/validation_patches.png" alt="val_patch" width="1200" height="500"/> </a> </p>
+
+# Confusion matrix
+<p align="left"> <a> <img src="https://github.com/suryavkar/kle-blg-cancer-det/blob/main/images/confusion matrix.png" alt="conf_mat" width="1200" height="400"/> </a> </p>
