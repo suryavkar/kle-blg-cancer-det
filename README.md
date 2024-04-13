@@ -15,3 +15,11 @@ Other files contain some of the pre-processing techniques used to refine the mod
 
 # Confusion matrix
 <p align="left"> <a> <img src="https://github.com/suryavkar/kle-blg-cancer-det/blob/main/images/confusion matrix.png" alt="conf_mat" width="1200" height="400"/> </a> </p>
+
+## Dependencies:
+- Tensorflow
+- NumPy
+- Matplotlib
+- Scikit-Learn
+
+Install dependencies using `pip install -r requirements.txt`
